@@ -8,7 +8,7 @@
 
 ## Sobre
 
-Repositório com todos os exemplos de código do livro **"Machine Learning Prático com Python"**. Cada capítulo está organizado em um diretório próprio, com scripts independentes e executáveis.
+Repositório com todos os exemplos de código do livro **"Machine Learning Prático com Python"**. Cada capítulo está organizado em um diretório próprio. Alguns scripts dependem da execução sequencial dos arquivos anteriores do mesmo capítulo.
 
 ## Estrutura do Repositório
 
